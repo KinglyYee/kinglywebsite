@@ -1,0 +1,29 @@
+h2 {
+    font-size: 4vmin;
+    float: left !important;
+    margin-top: 50px !important;
+
+}
+
+#linebreak {
+    display: none !important;
+}
+
+@media only screen and (max-width: 1000px){
+    h2 {
+        float: none !important;
+        margin-top: 1px !important;
+    }
+
+
+}
+
+@media only screen and (max-width: 1480px){
+
+    br {
+        display: static !important;
+    }
+    #linebreak {
+        display: static !important;
+    }
+}

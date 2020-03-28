@@ -1,0 +1,119 @@
+.exhibit {
+    background-color: white;
+    border: 1px solid black;
+    height: 30vmin;
+    margin: 20px;
+    padding: 10px;
+}
+
+.activity {
+    font-size: 5vmin;
+}
+
+.subtitle {
+    color: lightgray;
+    font-style: italic;
+}
+
+
+figure {
+    /* border: 1px solid black; */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+figure:hover{
+    transform: scale(1.02);
+}
+
+figcaption {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+#subimg {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 15px;
+}
+
+#subimg:hover {
+    transform: scale(1.02);
+}
+
+
+div#background {
+    /* border: 1px solid black; */
+    height:700px;
+    /* width: 100%; */
+    /* padding-top: 20px; */
+}
+
+#background Image {
+    height: 150px;;
+    margin: 0px
+}
+
+#background figure {
+    float: left;
+    position: relative;
+    background-color: white;
+    text-align: center;
+    font-size: 15px;
+    padding: 10px;
+    margin: 8px 30px 30px 30px;
+    /* box-shadow: 1px 2px 3px black; */
+}
+
+figcaption {
+    font-family: "Century Gothic";
+    font-size: 2vmin;
+    padding: 10px;
+    /* margin: 8px 30px 30px 30px; */
+    background-color: white !important;
+    margin-bottom: 20px;
+}
+
+@media only screen and (max-width: 1000px){
+    figure {
+        margin: 0px;
+    }
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+  }
+  
+  /* Create four equal columns that sits next to each other */
+  .column {
+    flex: 25%;
+    max-width: 25%;
+    padding: 4px;
+  }
+  
+  .column img {
+    vertical-align: middle;
+    width: 100%;
+    float: left;
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+    /* margin: 8px; */
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+  }
+  
+  /* Responsive layout - makes a two column-layout instead of four columns */
+  @media screen and (max-width: 800px) {
+    .column {
+      flex: 50%;
+      max-width: 50%;
+      margin-top: ; 
+    }
+  }
+  
+  /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+    .column {
+      flex: 100%;
+      max-width: 100%;
+    }
+  }

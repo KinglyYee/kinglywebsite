@@ -1,0 +1,50 @@
+h1 {
+    /* font-weight: bold; */
+    font-size: 2.5em;
+}
+
+/* #title {
+    font-family: Calibri light, sans-serif;
+    font-style: italic;
+} */
+
+.body {
+    /* font-family: Calibri light, sans-serif; */
+    font-size: 2.5vmin;
+}
+
+.parent {
+    /* border: 1px solid black; */
+    margin-top: auto;
+}
+
+.indphoto {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+.wholething{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.dot {
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+
+#red {background-color:#FC6A6A}
+#yellow {background-color: #FAD800}
+#green {background-color: #8AFF65}
+
+
+.output {
+    color: #D8D08F;
+}
+
+@media only screen and (max-width: 1000px){
+    
+}
+

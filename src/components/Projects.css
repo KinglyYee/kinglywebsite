@@ -1,0 +1,127 @@
+p{
+    margin-bottom: 0px;
+}
+
+button {
+    /* position: absolute; */
+    font-family: "muli" sans-serif;
+    /* left: 47%; */
+    /* bottom: 20px; */
+    /* left: 50%; */
+    margin: 0 auto !important;
+    display: block !important;
+}
+
+
+
+.card {
+    width: 100%;
+    height: 60vmin;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: left;
+    margin: 25px 0px 25px 0px;
+    padding: 4vmin;
+}
+
+.card:hover {
+    transform: scale(1.01);   
+}
+
+
+.projectname {
+    font-size: 32px;
+    /* font-weight: bold; */
+    font-family: "Century Gothic";
+    /* font-style: italic; */
+}
+
+.projecttype {
+    color: lightgray;
+    font-style: italic;
+}
+
+.projectdescription {
+    font-size: 11.5px;
+    font-family: "Century Gothic";
+}
+
+.projecticons{
+    /* position: absolute; */
+    font-family: "Courier New";
+    font-size: 25px;
+    /* text-align: center; */
+    /* bottom: 0; */
+    /* left: 17.5%; */
+}
+
+.parentcell {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    height: 100%;   
+}
+
+
+.cell1 {
+    padding: 10px;
+    /* border: 1px solid black; */
+    width: 100%;
+    height: 100%;
+}
+
+.cell2 {
+    /* border: 1px solid black; */
+    width: 100%;
+    height: 100%;
+}
+
+
+#project1{
+    /* background-color: #fcfefc; */
+    background-image: url("../images/KizukiLogoAndCakeWalk4.jpg");
+    background-repeat: no-repeat;
+    background-position: center;    
+    background-size: contain;
+}
+
+
+#project2{
+    background-image: url("../images/personalwebsite.jpg");
+    background-repeat: no-repeat;
+    background-position: center;    
+    background-size: contain;
+}
+
+#project3{
+    background-image: url("../images/weatherapp.jpg");
+    background-repeat: no-repeat;
+    background-position: center;    
+    background-size: contain;
+}
+
+
+@media only screen and (max-width: 1000px){
+    .card {
+        height: 90vmin;
+        transition: all 0.5s;
+    }
+    .parentcell {
+        flex-direction: column;
+        transition: all 0.5s;
+    }
+    
+    .cell1 {
+        width: 99%;
+        height: 70%;
+        border-bottom: 0.5px lightgray;
+    }
+
+    .cell2 {
+        width: 99%;
+    }
+
+    #weatherbox{
+        height: 100vmin;
+    }
+}
+
