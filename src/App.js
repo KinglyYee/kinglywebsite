@@ -23,7 +23,7 @@ class App extends Component {
           <header className="App-header">
           <meta charset = "UTF-8"></meta>
           <meta name="viewport" content="width=device-width, initial-scale=0.7, maximum-scale=1" />
-            <Router basename="process.env.PUBLIC_URL">
+            <Router>
                 <Navbar style = {{width: "100%", padding: "5px", marginBottom: "20px"}} bg="transparent" className="navbar navbar-expand-lg navbar-light bg-light"> 
                 <Navbar.Brand className="mr-auto"> <Link to={'/'} className="nav-link" style={{color: "black"}}> home </Link> </Navbar.Brand>
                 <ul className="navbar-nav ml-auto"> 
