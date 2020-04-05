@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/chooseyourownadventure/static/css/main.982d3491.chunk.css",
-    "main.js": "/chooseyourownadventure/static/js/main.423c2305.chunk.js",
-    "main.js.map": "/chooseyourownadventure/static/js/main.423c2305.chunk.js.map",
+    "main.js": "/chooseyourownadventure/static/js/main.4f6a7840.chunk.js",
+    "main.js.map": "/chooseyourownadventure/static/js/main.4f6a7840.chunk.js.map",
     "runtime-main.js": "/chooseyourownadventure/static/js/runtime-main.2d9a90c3.js",
     "runtime-main.js.map": "/chooseyourownadventure/static/js/runtime-main.2d9a90c3.js.map",
     "static/css/2.de424728.chunk.css": "/chooseyourownadventure/static/css/2.de424728.chunk.css",
-    "static/js/2.eae72339.chunk.js": "/chooseyourownadventure/static/js/2.eae72339.chunk.js",
-    "static/js/2.eae72339.chunk.js.map": "/chooseyourownadventure/static/js/2.eae72339.chunk.js.map",
+    "static/js/2.aac7dc7b.chunk.js": "/chooseyourownadventure/static/js/2.aac7dc7b.chunk.js",
+    "static/js/2.aac7dc7b.chunk.js.map": "/chooseyourownadventure/static/js/2.aac7dc7b.chunk.js.map",
     "index.html": "/chooseyourownadventure/index.html",
-    "precache-manifest.61cf301ed5bba86ea4c7dd61b09df839.js": "/chooseyourownadventure/precache-manifest.61cf301ed5bba86ea4c7dd61b09df839.js",
+    "precache-manifest.dd40dd9ea3b83a8405ea652757b78b66.js": "/chooseyourownadventure/precache-manifest.dd40dd9ea3b83a8405ea652757b78b66.js",
     "service-worker.js": "/chooseyourownadventure/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/chooseyourownadventure/static/css/2.de424728.chunk.css.map",
     "static/css/main.982d3491.chunk.css.map": "/chooseyourownadventure/static/css/main.982d3491.chunk.css.map",
-    "static/js/2.eae72339.chunk.js.LICENSE.txt": "/chooseyourownadventure/static/js/2.eae72339.chunk.js.LICENSE.txt",
+    "static/js/2.aac7dc7b.chunk.js.LICENSE.txt": "/chooseyourownadventure/static/js/2.aac7dc7b.chunk.js.LICENSE.txt",
     "static/media/KizukiLogo.jpg": "/chooseyourownadventure/static/media/KizukiLogo.38305f69.jpg",
     "static/media/Projects.css": "/chooseyourownadventure/static/media/weatherapp.16e3886c.jpg",
     "static/media/Resume-Kingly_Yee.pdf": "/chooseyourownadventure/static/media/Resume-Kingly_Yee.20d9028d.pdf",
@@ -34,8 +34,8 @@
   "entrypoints": [
     "static/js/runtime-main.2d9a90c3.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.eae72339.chunk.js",
+    "static/js/2.aac7dc7b.chunk.js",
     "static/css/main.982d3491.chunk.css",
-    "static/js/main.423c2305.chunk.js"
+    "static/js/main.4f6a7840.chunk.js"
   ]
 }

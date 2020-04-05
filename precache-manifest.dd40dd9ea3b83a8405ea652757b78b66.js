@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "52654bdf68b8af25cf37d0e553fa709a",
+    "revision": "32e01dea35debe1bdfcff4763eacdc5e",
     "url": "/chooseyourownadventure/index.html"
   },
   {
-    "revision": "c4f537e661635efcf982",
+    "revision": "0e904aa9f1bb3983fdb2",
     "url": "/chooseyourownadventure/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "3fd6d105182c407a184a",
+    "revision": "82c764c2c5b2ed4af89c",
     "url": "/chooseyourownadventure/static/css/main.982d3491.chunk.css"
   },
   {
-    "revision": "c4f537e661635efcf982",
-    "url": "/chooseyourownadventure/static/js/2.eae72339.chunk.js"
+    "revision": "0e904aa9f1bb3983fdb2",
+    "url": "/chooseyourownadventure/static/js/2.aac7dc7b.chunk.js"
   },
   {
     "revision": "eff3b4d7e4bb0087ce53139cd90bc880",
-    "url": "/chooseyourownadventure/static/js/2.eae72339.chunk.js.LICENSE.txt"
+    "url": "/chooseyourownadventure/static/js/2.aac7dc7b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3fd6d105182c407a184a",
-    "url": "/chooseyourownadventure/static/js/main.423c2305.chunk.js"
+    "revision": "82c764c2c5b2ed4af89c",
+    "url": "/chooseyourownadventure/static/js/main.4f6a7840.chunk.js"
   },
   {
     "revision": "6bef509c7aa7c2a0510a",
